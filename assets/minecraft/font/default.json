@@ -1,0 +1,1134 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:notosans-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansadlam-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansadlamunjoined-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansanatolianhieroglyphs-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansarabic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansarabicui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansarmenian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansavestan-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbalinese-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbamum-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbatak-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbengali-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbengaliui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbrahmi-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbuginese-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansbuhid-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscanadianaboriginal-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscarian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanschakma-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscham-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscherokee-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscjkjp-regular.otf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscjkkr-regular.otf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscjksc-regular.otf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscjktc-regular.otf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscoptic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscuneiform-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanscypriot-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansdeseret-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansdevanagari-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansdevanagariui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansegyptianhieroglyphs-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansethiopic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansgeorgian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansglagolitic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansgothic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansgujarati-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansgujaratiui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansgurmukhi-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansgurmukhiui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanshanunoo-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanshebrew-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansimperialaramaic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansinscriptionalpahlavi-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansinscriptionalparthian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansjavanese-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskaithi-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskannada-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskannadaui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskayahli-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskharoshthi-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskhmer-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanskhmerui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslao-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslaoui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslepcha-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslimbu-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslinearb-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslisu-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslycian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanslydian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmalayalam-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmalayalamui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmandaic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmeeteimayek-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmongolian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmyanmar-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansmyanmarui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansnewtailue-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansnko-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansogham-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansolchiki-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansolditalic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansoldpersian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansoldsoutharabian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansoldturkic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansoriya-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansoriyaui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansosage-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansosmanya-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansphagspa-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansphoenician-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansrejang-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansrunic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssamaritan-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssaurashtra-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansshavian-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssinhala-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssinhalaui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssundanese-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssylotinagri-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssymbols-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssymbols2-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssyriaceastern-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssyriacestrangela-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanssyriacwestern-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstagalog-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstagbanwa-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstaile-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstaitham-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstaiviet-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstamil-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstamilui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstelugu-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansteluguui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansthaana-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansthai-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansthaiui-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstibetan-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosanstifinagh-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansugaritic-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansvai-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    },
+    {
+      "type": "ttf",
+      "file": "minecraft:notosansyi-regular.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 14,
+      "oversample": 4
+    }
+  ]
+}
