@@ -45,9 +45,9 @@
       "file": "minecraft:notosansarabic-regular.ttf",
       "shift": [
         0,
-        0
+        -2
       ],
-      "size": 14,
+      "size": 20,
       "oversample": 4
     },
     {
